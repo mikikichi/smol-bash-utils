@@ -1,2 +1,3 @@
 # smol-bash-utils
-Collection of my personal small bash scripts for making life easier!
+Useful bash utilities for my personal workflow.
+Pull requests for improvement of scripts are very welcome!
