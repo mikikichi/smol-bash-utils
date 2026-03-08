@@ -1,6 +1,6 @@
 #!/bin/bash
-message=$1
-#TODO Make this accept more than one word!!!!!!!!!!
+message="$*"
+#TODO improvements could be made
 if [[ -n $message ]]; then
 	git add .
 	git commit -m "$message"
